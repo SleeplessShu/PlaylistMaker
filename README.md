@@ -42,17 +42,21 @@
 
 ---
 
-## 🛠️ Стек технологий
+### 🛠️ Стек технологий
 
-- **Язык:** Kotlin
+- **Язык программирования:** Kotlin
 - **Архитектура:** MVVM + Clean Architecture
-- **Слои:** UI / Domain / Data
-- **Сетевой слой:** Retrofit
-- **Хранение данных:** Room, SharedPreferences
+- **DI (внедрение зависимостей):** Koin
 - **Асинхронность:** Kotlin Coroutines, Flow
-- **Dependency Injection:** Koin
-- **UI:** RecyclerView, Fragment, ViewModel, BottomSheetDialogFragment, Material Components
-- **Тестирование:** JUnit
+- **Хранение данных:**
+  - Room (для плейлистов и треков)
+  - SharedPreferences (для настроек и истории поиска)
+- **Сетевое взаимодействие:** Retrofit (подключение к iTunes API)
+- **UI-компоненты:** RecyclerView, Fragment, BottomSheetDialog, Material Components
+- **Мультимедиа:** MediaPlayer API (воспроизведение аудио)
+- **Темы:** Поддержка светлой и тёмной темы
+- **Тестирование:** JUnit (юнит-тесты бизнес-логики)
+- **Слои:** Data / Domain / UI (по Clean Architecture)
 
 ---
 
