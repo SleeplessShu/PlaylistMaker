@@ -1,4 +1,7 @@
-# 🎵 PlaylistMaker
+<h1>
+  <img src="https://github.com/user-attachments/assets/9c3a5059-988d-41aa-b9f2-ba2f34ec7f75" height="28"/>
+  PlaylistMaker
+</h1>
 
 **PlaylistMaker** - Android-приложение для создания и прослушивания музыкальных плейлистов. Пользователи могут искать треки, добавлять их в плейлисты, слушать музыку и настраивать внешний вид приложения.
 
