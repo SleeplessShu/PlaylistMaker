@@ -8,23 +8,23 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/5e03d1a0-cc1c-48c7-b295-caa5f18a6dbf" style="max-height:300px; height:auto; width:auto;"/><br/>
+      <img src="https://github.com/user-attachments/assets/5e03d1a0-cc1c-48c7-b295-caa5f18a6dbf" style="height:300px; object-fit:contain;"/><br/>
       <sub>Главный экран / Избранные треки</sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/0712599d-cc05-45be-9774-f2c9013de6a1" style="max-height:300px; height:auto; width:auto;"/><br/>
+      <img src="https://github.com/user-attachments/assets/0712599d-cc05-45be-9774-f2c9013de6a1" style="height:300px; object-fit:contain;"/><br/>
       <sub>Поиск</sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/4fd8fb86-1f16-4a16-be55-27f335a32b7f" style="max-height:300px; height:auto; width:auto;"/><br/>
+      <img src="https://github.com/user-attachments/assets/4fd8fb86-1f16-4a16-be55-27f335a32b7f" style="height:300px; object-fit:contain;"/><br/>
       <sub>Плеер</sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/9da95d1b-af36-4e5d-8646-60118adc9de2" style="max-height:300px; height:auto; width:auto;"/><br/>
+      <img src="https://github.com/user-attachments/assets/9da95d1b-af36-4e5d-8646-60118adc9de2" style="height:300px; object-fit:contain;"/><br/>
       <sub>Плейлисты</sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/8844bcae-887f-4fb1-abd5-eeb08f73c67e" style="max-height:300px; height:auto; width:auto;"/><br/>
+      <img src="https://github.com/user-attachments/assets/8844bcae-887f-4fb1-abd5-eeb08f73c67e" style="height:300px; object-fit:contain;"/><br/>
       <sub>Редактор плейлиста</sub>
     </td>
   </tr>
