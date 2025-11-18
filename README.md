@@ -7,7 +7,7 @@
 
 ---
 
-## 📱 Скриншоты
+## 📱 Screenshots
 <table>
   <tr>
     <td align="center" valign="top">
